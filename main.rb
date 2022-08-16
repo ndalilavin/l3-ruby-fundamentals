@@ -9,11 +9,12 @@
 
 # 2.0 Strings
 # TODO: CREATE A STRING
-
+first_name = "Vin"
 # TODO: CREATE A STRING WITH SINGLE QUOTES
-
+last_name = "Nda"
 # TODO: INTERPOLATE STRINGS
-
+about_me = "My first name is #{first_name}, and last name #{last_name}"
+puts about_me
 # TODO: String methods (upcase, downcase, capitalize)
 
 # 3.0 Numbers
